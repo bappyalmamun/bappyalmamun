@@ -1,5 +1,5 @@
 <html>
-<title> Welcome to my page</title>
+Welcome to my page
 
   
 </html>
